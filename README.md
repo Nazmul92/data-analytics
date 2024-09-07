@@ -108,3 +108,14 @@ LIMIT 5;
 
 ```
 ## ETL and data visualization in Power BI
+#### In addition to querying the database using MySQL, I utilized Power BI for data visualization to create interactive dashboards that provide insights into sales trends, customer behavior, and market performance. The dashboards enable users to explore and interpret data more effectively.
+
+### Key Transformations and Data Preparation:
+- Currency Type Inconsistency: Addressed inconsistencies in currency formats by creating a normalized column to standardize values across the dataset.
+- Missing Value Handling: Implemented techniques to manage and impute missing values, ensuring the completeness and accuracy of the data.
+- Date Column Formatting: Standardized date formats to ensure consistency and facilitate accurate time-based analysis.
+### Power BI Dashboards:
+- Sales Trends: Visualizations showing trends in sales over time, including monthly and yearly sales figures.
+- Customer Analysis: Interactive charts and graphs that analyze customer purchasing patterns and behaviors.
+- Market Insights: Visualizations providing insights into market performance, including top-performing markets and product sales distributions.
+#### These interactive visualizations in Power BI enhance data exploration and decision-making by offering a clear and engaging view of the sales data.
