@@ -1,5 +1,5 @@
 # Sales Data Insight Project
-### This project demonstrates how to analyze sales data using MySQL and Power BI. Through a series of SQL queries, it provides insights into customer and market performance, helping the business make data-driven decisions.
+#### This project demonstrates how to analyze sales data using MySQL and Power BI. Through a series of SQL queries, it provides insights into customer and market performance, helping the business make data-driven decisions.
 ## Tools Used
 
 - **MySQL**: For data storage and querying.
